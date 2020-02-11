@@ -8,7 +8,7 @@ For your first CMS project you will create a simple [bloging](https://wordpress.
 
 * A profile picture
 
-* An about Me/Biography
+* An about me/Biography
 
    * Hobbies
    * Favorite Movie
