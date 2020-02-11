@@ -9,9 +9,10 @@ For your first CMS project you will create a simple [bloging](https://wordpress.
 * A profile picture
 
 * An about Me/Biography
-   Hobbies
-   Favorite Movie
-   etc.
+
+   * Hobbies
+   * Favorite Movie
+   * etc.
    
 * A social Media links
 
