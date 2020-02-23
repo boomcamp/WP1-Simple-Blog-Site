@@ -23,6 +23,10 @@ For your first CMS project you will need to create a simple [bloging](https://wo
 
 You can select any of the [themes](https://wordpress.org/themes/) offered by wordpress or you can download and customize your own designs.
 
+# Hosting 
+
+Should be uploaded in a free hosting site.
+
 # Finished
 
 Submit a link to your fork of this repository to the Google Classroom assignment related to this project.
