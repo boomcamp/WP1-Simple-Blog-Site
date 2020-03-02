@@ -25,13 +25,11 @@ You can select any of the [themes](https://wordpress.org/themes/) offered by wor
 
 # Hosting 
 
-Should be uploaded in a free hosting site.
+Should be accessible and uploaded thru a free hosting site.
 
 # Finished
 
-Submit a link to your fork of this repository to the Google Classroom assignment related to this project.
-
-Goodluck!
+Submit a link to your fork of this repository to the Google Classroom assignment related to this project. Goodluck!
 
 
 
