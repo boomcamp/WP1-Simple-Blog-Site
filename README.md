@@ -1,4 +1,4 @@
-# Web Blog
+# Introduction
 
 For your first CMS project you will need to create a simple [bloging](https://wordpress.org/support/article/introduction-to-blogging/) site that display the folowing categories
 
