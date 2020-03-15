@@ -1,6 +1,6 @@
 # Introduction
 
-For your first CMS project you will need to create a simple [bloging](https://wordpress.org/support/article/introduction-to-blogging/) site that display the folowing categories
+For your first CMS project you will create a simple [bloging](https://wordpress.org/support/article/introduction-to-blogging/) site that display the folowing categories
 
 * A blog name and description 
 
@@ -25,7 +25,7 @@ You can select any of the [themes](https://wordpress.org/themes/) offered by wor
 
 # Hosting 
 
-Should be accessible and uploaded thru a free hosting site.
+Should be accessible and uploaded in a hosting site.
 
 # Finished
 
